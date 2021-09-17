@@ -1,0 +1,4 @@
+
+pywin32==301
+pyWinhook @ file:///D:/Users/zhijie02.feng/PycharmProjects/AutoMaster/venv/Include/pyWinhook-1.6.2-cp39-cp39-win_amd64.whl
+wxPython==4.1.1
